@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/uesite/:/",
-    "/content/uesite/configuration:/.helix/config.json",
-    "/content/uesite/metadata:/metadata.json"
+    "/content/xwalk/:/",
+    "/content/xwalk/configuration:/.helix/config.json",
+    "/content/xwalk/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/uesite/"
+    "/content/xwalk/"
   ]
 }
